@@ -68,6 +68,9 @@
     margin: 6%;
     padding: 14px 20px;
 }
+.sidebar_menu .menu ul{
+    list-style-type: none;
+}
 
 .sidebar_menu .menu i,a{
     color: white;
